@@ -24,7 +24,7 @@ int main(){
 	
 	//use 'fixed' and 'setprecision' to fix the number of decimal digits for displaying
 	//you can change input argument of 'setprecision()' to see the effect
-	int sum,i = 0;
+	int i = 0;
 	while(loan>0){
 			
 			cout << fixed << setprecision(2); 
